@@ -56,8 +56,6 @@ phasefinal/
 └── FileHandler.java        # File I/O for persisting books and customers
 ```
 
----
-
 ## How to Run
 
 1. Clone the repository
