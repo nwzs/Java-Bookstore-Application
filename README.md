@@ -2,16 +2,12 @@
 
 A Java desktop application for managing a bookstore, built with object-oriented design principles and the **State design pattern**. Supports two user roles, customers and an owner, each with their own set of permissions and workflows.
 
----
-
 ## Tech Stack
 
 **Language:** Java  
 **UI Framework:** JavaFX  
 **Design Patterns:** State Pattern, Singleton Pattern  
 **Persistence:** File I/O (BufferedReader/BufferedWriter)
-
----
 
 ## Features
 
@@ -27,8 +23,6 @@ A Java desktop application for managing a bookstore, built with object-oriented 
 - Add and remove books from the system
 - Add and remove customer accounts
 - View all customers and inventory
-
----
 
 ## Design Patterns Used
 
@@ -72,8 +66,6 @@ phasefinal/
 4. Login as **Owner** (`admin` / `admin`) or as any existing customer
 
 > Books and customers are loaded from `book.txt` and `customer.txt` on startup and saved on exit.
-
----
 
 ## UML Class Diagram
 
