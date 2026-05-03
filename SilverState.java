@@ -1,5 +1,3 @@
-package phasefinal;
-
 import java.util.List;
 
 public class SilverState implements CustomerState { 
