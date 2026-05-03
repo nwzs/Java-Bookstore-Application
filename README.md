@@ -1,4 +1,4 @@
-# 📚 BookStore Application
+# BookStore Application
 
 A Java desktop application for managing a bookstore, built with object-oriented design principles and the **State design pattern**. Supports two user roles — customers and an owner — each with their own set of permissions and workflows.
 
