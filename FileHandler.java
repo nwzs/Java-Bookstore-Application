@@ -1,5 +1,3 @@
-package phasefinal;
-
 import java.util.ArrayList;
 
 import java.io.*;
