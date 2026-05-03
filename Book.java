@@ -1,5 +1,3 @@
-package phasefinal;
-
 import javafx.scene.control.CheckBox;
 
 public class Book {
